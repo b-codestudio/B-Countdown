@@ -1,6 +1,7 @@
 # B-Countdown
 
 This is very simple jQuery / Javascript timer plugin that you can easily add to your project even with basic knowledge of Javascript coding.
+- [Online demo](http://b-codestudio.com/b-countdown/)
 
 ### Compatibility
 B-Countdown is fully functional with all modern browser, and old browser such as IE9 and Opera 10.5
