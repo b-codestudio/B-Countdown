@@ -9,18 +9,14 @@ B-Countdown is fully functional with all modern browser, and old browser such as
 Using B-Countdown is really easy. After downloading files, copy **jquery.BCountdown.js** and **jquery.BCountdown.css**, and paste Jquery.BCountdown.js 
 to your js folder and jquery.BCountdown.css to your css folder.
 
-Now open your root file such as index.html and paste these two lines in your `<head></head>` section:
+Now open your root file such as index.html and paste these two lines next to your other `<link/>` and `<script></script>`:
 
 ```
-<head>
-
  // Your other links
   <link rel="stylesheet" href="your css folder path/jquery.BCountdown.css" type="text/css" />.
   
   // Your other scripts
   <script src="your js folder path/jquery.BCountdown.js"></script>
-  
-</head>
 ```
 After adding these two lines of code to your `<head></head>`, it's time to add HTML structure to your body section.
 
