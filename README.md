@@ -7,6 +7,8 @@ This is very simple jQuery / Javascript timer plugin that you can easily add to 
 B-Countdown is fully functional with all modern browser, and old browser such as IE9 and Opera 10.5
 
 ### How to use
+- [How to install video](https://www.youtube.com/watch?v=wthsYRUyvhY)
+
 Using B-Countdown is really easy. After downloading files, copy **jquery.BCountdown.js** and **jquery.BCountdown.css**, and paste Jquery.BCountdown.js 
 to your js folder and jquery.BCountdown.css to your css folder.
 
